@@ -56,4 +56,4 @@ This is my first entry into my blog, and honestly it's more of a summary of my o
 
 ---
 Akash Bagchi, 01/06/24
-Location
+Tokyo, JP
