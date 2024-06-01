@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "👾 cursim-wiki",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -52,6 +52,7 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
+      Plugin.ObsidianFlavoredMarkdown(),
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
