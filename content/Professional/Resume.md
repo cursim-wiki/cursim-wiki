@@ -9,11 +9,11 @@ date: 2024-06-01
 > [!INFO] About me
 > I'm a Product Development Engineer based in Tokyo with 1.5 years of experience in the software industry. My focus area for the past few years has been front-end development with Vue3 and TypeScript, but I'm also skilled in and passionate about User Experience Design.
 #### Contact
-[✉️bagchiakash@icloud.com](mailto:bagchiakash@icloud.com)
+[✉️ bagchiakash@icloud.com](mailto:bagchiakash@icloud.com)
 
-[💼linkedin.com/akashbagchi](http://linkedin.com/in/akashbagchi)
+[💼 linkedin.com/akashbagchi](http://linkedin.com/in/akashbagchi)
 
-[👾github.com/akashbagchi](https://github.com/akashbagchi)
+[👾 github.com/akashbagchi](https://github.com/akashbagchi)
 
 ---
 # 📃 Experience

@@ -19,4 +19,5 @@ At the time of writing, I'm planning to create a sort-of wiki to my professional
 	- Projects
 		- [[Professional/Projects/README|README]]
 - Blog
-	- [[Blog Home]]
+	- [[Tech Blogs]]
+	- [[Life Blogs]]
