@@ -1,6 +1,6 @@
 ---
 title: Taking Back Control
-draft: true
+draft: false
 tags: 
   - life
   - productivity
