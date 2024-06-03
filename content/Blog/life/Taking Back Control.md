@@ -31,7 +31,7 @@ This is the single best way to have meaningful thoughts again. Just get rid of t
 
 Make it as difficult as possible to succumb to technology and just sit with your own thoughts and feelings for a while. I'm doing 60minutes but even 20-30 would be great for you. Sit with your own thoughts and nothing else for a while and you'll surprise yourself with your creativity.
 ### 3. Exercise and Hygiene
-Exercise is quite cliche and hygiene seems to obvious to point out, but from personal experience, I know the feeling of borderline-depression when it feels like the most Herculean task to even get yourself to take a shower on the weekends.
+Exercise is quite cliche and hygiene seems too obvious to point out, but from personal experience, I know the feeling of borderline-depression when it feels like the most Herculean task to even get yourself to take a shower on the weekends.
 
 I understand it, it happens, and it's nothing to be ashamed about. But what you'll find is that the relationship is two-way, and just how a bad mental state can make you averse to maintaining your physical health and appearance, putting some effort into exercise and hygiene can boost your mental state. 
 
