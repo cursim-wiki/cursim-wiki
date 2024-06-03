@@ -18,7 +18,6 @@ _Vue3・TypeScript・UI/UX | Tokyo, Japan - (Dec 2023 - Present)_
 * Front-End Developer in the Visual Mosaic Team for Component Studio, LaKeel’s premier low-code development engine (Editor + Renderer)
 * Helped create robust and modern UI/UX guidelines and conducted design reviews for several internal products and tools as part of the UI/UX Task Team
 * Developer and maintainer of the internal tool Leave Management Chatbot API, in use company-wide today
-* Conducted API & TypeScript Development Training for 2024 batch of freshers
 ## SAP SD Intern Consultant - Zeiss Group
 _SAP S3 | Bangalore, India - (Jan 2023 - Jun 2023)_
 * Underwent training as an SAP Sales & Distribution consultant in Zeiss India
