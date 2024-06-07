@@ -41,17 +41,15 @@ I’ve been very interested and involved with User Experience Design for the las
 
 ---
 # Certifications
-##### UX Design Specialization
-_Google, on Coursera_
-##### Full Stack Development
-_Unschool_
-##### Web Application Development
-_Indian Institute of Technology, Madras, on NPTEL_
+- UX Design Specialization
+- Full Stack Development
+- Web Application Development
+- Visual Elements of User Interface Design
+- Python and Machine Learning
+  _and more_
 
 ---
 # Languages
-🇺🇸 English, _Native Speaker_
-
-🇮🇳 Hindi, Bengali, _Native Speaker_
-
-🇯🇵 Japanese, _Intermediate Speaker_
+- 🇺🇸 English - _Native Speaker_
+- 🇮🇳 Hindi, Bengali - _Native Speaker_
+- 🇯🇵 Japanese - _Intermediate Speaker_
