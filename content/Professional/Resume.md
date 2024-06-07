@@ -13,7 +13,7 @@ date: 2024-06-01
 
 ---
 # 📃 Experience
-## Product Development Engineer - Lakeel, Inc
+## Product Development Engineer - LaKeel, Inc
 _Vue3・TypeScript・UI/UX | Tokyo, Japan - (Dec 2023 - Present)_
 * Front-End Developer in the Visual Mosaic Team for Component Studio, LaKeel’s premier low-code development engine (Editor + Renderer)
 * Helped create robust and modern UI/UX guidelines and conducted design reviews for several internal products and tools as part of the UI/UX Task Team
