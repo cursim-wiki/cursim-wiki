@@ -1,6 +1,6 @@
 ---
-title: Using the SCAMPER Method for Design Reviews
-draft: true
+title: Using the SCAMPER method for Design Reviews
+draft: false
 tags: 
   - uiux
   - tech
@@ -8,9 +8,9 @@ date: 2024-08-31
 ---
 
 > [!INFO] Gist
-> After participating in a number of internal product design reviews, I started to look for a framework to identify improvement opportunities, and came across SCAMPER.
+> Struggling to make design reviews more efficient and insightful? After facing similar challenges in our internal product design reviews, I discovered the SCAMPER method—a simple yet powerful framework that helps you ask the right questions and spot improvement opportunities faster.  
 > 
-> Here's how you too can use SCAMPER to focus on 7 key questions and find key areas of improvement quicker and more consistently.
+> Learn how you can use SCAMPER to focus on seven key areas and transform your design review process into a tool for innovation and efficiency.
 
 ////////////////////////////////////////////////////////////////////
 
@@ -35,58 +35,32 @@ That's when I got to searching for a _"framework to success"_, if you will, to a
 SCAMPER is an acronym for the 7 key questions to consider when looking for areas of improvement in a product:
 ### 1. Substitute
 __☁️❓ What can I substitute to improve my product?__
-
-In "Substitute", we consider replacing existing elements or features with others. This allows for you to find new ways to solve current issues or improve user experience.
-For example, Replace a text-based tutorial with an interactive guide
-- Many users find it more efficient and easier to learn how to operate step-by-step on a real interface than to read lengthy texts. This eases the user's learning curve and increases engagement with a product
-The key is to specifically think about the new value and experience that will be created by replacing the product, not just "replacing" it.
+This step involves considering what elements or features could be replaced to enhance the product. For example, replacing a text-based tutorial with an interactive guide can make the learning process more engaging and easier for users, thereby improving their experience.  
+The focus should be on the new value and experience created by the substitution, not just the act of replacing something.
 ### 2. Combine
 __☁️❓ Which elements can be combined to make your product or service more effective?__
-
-For example, combine the navigation menu and search bar to allow users to quickly access the information they are looking for.
-- Especially in mobile design, it is important to combine elements to provide a compact and efficient interface in order to make the most of limited screen space.
-- Another approach is to combine a chatbot with a FAQ section to help users get the information they need more quickly. This is expected to reduce support costs and improve the user experience.
+For example, combining the navigation menu with the search bar allows users to quickly access the information they seek.  
+In mobile design, combining elements is crucial for making the most of limited screen space. Another approach could be integrating a chatbot with a FAQ section to reduce support costs and improve the user experience.
 ### 3. Adapt
 __☁️❓ How can you take other best practices and contexts and apply them?__
-
-In the "Adapt" step, we look at best practices in different environments and contexts and find ways to optimize them for our product or service. This will allow you to offer a more suitable user experience and reach new markets and user segments.
-For example, optimizing a web-oriented application for smartphones
-- Many web applications are designed for use on desktops and laptops, but many users prefer to use them on their smartphones. By adopting an “adapt” mindset and optimizing your app for smartphones, you can significantly improve the user experience.
+Look at successful practices in different environments and adapt them to your product. For instance, optimizing a web application for smartphone use can significantly enhance the user experience for mobile users.
 ### 4. Modify
 __☁️❓ What can be changed in the design, functionality, or process of the product to achieve better results?__
-
-For example, change the colors and layout of the user interface to make it more visually appealing and user-friendly.
-- This can be something like adjusting the size and position of the Call-To-Action buttons may significantly improve click-through rates.
-In addition, revamping existing flows and reducing unnecessary steps can help reduce the time it takes users to accomplish their objectives. This will make the user experience smoother and more satisfying.
+This step could involve altering the color scheme or layout to make the interface more visually appealing or user-friendly.  
+Streamlining processes, such as reducing unnecessary steps in a user flow, can also enhance the user experience.
 ### 5. Put to Other Uses
 __💭❔ Are there ways in which existing elements or features can be put to other uses?__
-
-The “Put to Other Uses” step considers ways to repurpose current products and features for different contexts and uses. This can open up new markets and user segments or enhance the value of existing products.
-For example, leveraging chat functionality for uses other than customer support
-- Chat functions are typically used for customer support and inquiry handling, but they can also be leveraged to gather product feedback.
-- By providing “in-app survey chats” that trigger specific operations or actions and collect real-time, in-the-moment feedback from users, valuable data can be collected to help improve products.
+Consider how features like chat functions, traditionally used for customer support, can serve other purposes, such as gathering product feedback through in-app surveys triggered by specific actions.
 ### 6. Eliminate
 __💭❔ Which elements can be eliminated to make the product or service simpler and easier for users to use?__
-
-For example, reduce user abandonment by reducing the number of required fields in the registration form. Especially when registering from a mobile device, it is important to minimize the amount of input required.
-- Another possibility is to improve the experience of first-time visitors by trimming down the information on the top page of the application or website so that users can navigate intuitively.
+Reducing the number of fields in a registration form can lower user abandonment rates. Simplifying the content on the top page of a website can make navigation more intuitive.
 ### 7. Reverse, Rearrange
 __💭❔ What new value can be created by changing the order or organization of elements?__
-
-For example, Rearrange the arrangement of information to provide quick access to important information
-- Many websites and applications arrange information on a single long page, which can make it time-consuming for users to find the information they need. Therefore, rethinking the prioritization of information and repositioning important information in a prominent position can improve the user experience.
-- Also, in designing dashboards, the functions and important data that users use most frequently (e.g., real-time analytics and KPIs) should be displayed first, with detailed information and additional reports placed below them, so that users can instantly access the information they need most.
+Rearranging information to prioritize what users need most can significantly enhance the user experience. For example, displaying critical data and frequently used functions first on a dashboard can make them more accessible.
 
 ## Conclusion
 
-In conclusion, I mainly wanted to highlight a prescribed framework to asking important questions during design reviews, because I know firsthand that it's not so easy to recognize every issue through intuition alone.
-Not only will you save valuable time doing this, you'll also cultivate good habits and reviewing skill by tuning your mind to look for key opportunities, even without following the SCAMPER method to a T.
-That said, quick and clean isn't always the best approach to UX Reviews, and there
+The SCAMPER method provides a structured way to ask essential questions during design reviews. While it can save time and help develop strong reviewing skills, remember that a quick and clean approach isn't always best. If you have the resources, consider exploring additional methodologies to achieve the best UX outcomes for your team.
 
 ---
 Tokyo, JP
-
-
-
-
-
