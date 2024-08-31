@@ -32,12 +32,15 @@ _2023, Dayananda Sagar University_
 * CGPA - 8.73 (First Class with Distinction)
 ---
 # 🛠️ Skills
-### Javascript & TypeScript
-My ‘native’ programming language, I’ve worked with it for over 4 years. I’ve used it in the front-end with React and Vue.js, in the back-end for APIs with NestJS, etc.
-### Python
-I’ve used python extensively in several university projects and internships and have applied it to projects spanning several fields such as web development, AI/ML, and Data Science.
-### UI/UX
-I’ve been very interested and involved with User Experience Design for the last 2 years and have done a specialization course on it provided by Google & Coursera. I’ve had several chances to apply my UX Design knowledge as part of the UI/UX task team at [[#Product Development Engineer - Lakeel, Inc|LaKeel]] and more.
+### Programming Languages
+* **Javascript & TypeScript**: Extensive experience in front-end development, particularly with Vue.js and React. Used in various projects and production environments.
+* **Python**: Applied in university projects and internships, including tools for data analysis and machine learning.
+* **Other Languages**: C, Java, Go, PHP
+### Tools & Technologies
+* **Frontend**: Vue.js, React.js, HTML/CSS, UI/UX Design
+* **Backend**: Node.js, NestJS, REST APIs
+* **Databases**: MongoDB, PostgreSQL, SQLite, SQL
+* **Version Control**: Git, GitHub, Gitlab
 
 ---
 # Certifications
@@ -52,4 +55,4 @@ I’ve been very interested and involved with User Experience Design for the las
 # Languages
 - 🇺🇸 English - _Native Speaker_
 - 🇮🇳 Hindi, Bengali - _Native Speaker_
-- 🇯🇵 Japanese - _Intermediate Speaker_
+- 🇯🇵 Japanese - _N3 Level_

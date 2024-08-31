@@ -47,6 +47,4 @@ If you're part of a team building B2B applications, consider investing a decent 
 This is my first entry into my blog, and honestly it's more of a summary of my own thoughts than any guide or lesson to anyone reading. But I hope to expand this blog/wiki/knowledge-base more and more as a way to keep learning and growing my skill stack. 
 
 ---
-Akash Bagchi, 01/06/24
-
 Tokyo, JP
