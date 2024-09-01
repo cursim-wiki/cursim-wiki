@@ -13,8 +13,3 @@ date: 2024-06-02
 - [[Blog/tech/What's with B2B UX?.md|What's with B2B UX?]]
 <!-- SerializedQuery END -->
 
-
----
-Akash Bagchi,
-
-Tokyo, Japan

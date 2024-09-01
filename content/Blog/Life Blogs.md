@@ -15,7 +15,3 @@ date: 2024-06-02
 <!-- SerializedQuery END -->
 
 
----
-Akash Bagchi,
-
-Tokyo, Japan
