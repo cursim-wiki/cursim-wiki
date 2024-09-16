@@ -17,8 +17,7 @@ At the time of writing, I'm planning to create a sort-of wiki to my professional
 #### Table of Contents
 - Professional
 	- [[Resume]]
-	- Projects
-		- [[CoffeeHouse - A UX Design Project]]
+	- [[Projects]]
 - Blog
 	- [[Tech Blogs]]
 	- [[Life Blogs]]
