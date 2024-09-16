@@ -4,6 +4,7 @@ draft: false
 tags:
   - portfolio
 date: 2024-06-01
+publish: true
 ---
  
 > [!INFO] About me

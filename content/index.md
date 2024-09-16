@@ -4,6 +4,7 @@ draft: false
 tags:
   - home
 date: 2024-06-01
+publish: true
 ---
 
 Welcome to my blog.

@@ -1,11 +1,12 @@
 ---
 title: Resume
-draft: true
+draft: false
 tags:
   - portfolio
 date: 2024-08-25
+publish: false
 ---
- 
+
 > [!INFO] About me
 > Aspiring Computer Science graduate student with a strong foundation in software development and user experience design, seeking to contribute to cutting-edge research in Interactive Media, and Web & Mobile development. Eager to apply my technical skills and industry experience to advance the field of Interaction Development & Design.
 #### Contact

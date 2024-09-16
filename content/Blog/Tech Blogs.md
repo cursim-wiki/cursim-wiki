@@ -3,6 +3,7 @@ title: Tech Blogs
 draft: false
 tags: 
 date: 2024-06-02
+publish: true
 ---
 
 ## Latest

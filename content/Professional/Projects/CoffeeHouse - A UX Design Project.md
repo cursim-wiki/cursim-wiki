@@ -4,6 +4,7 @@ draft: false
 tags:
   - project
   - uiux
+publish: true
 ---
 
 

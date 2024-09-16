@@ -5,6 +5,7 @@ tags:
   - uiux
   - tech
 date: 2024-06-01
+publish: true
 ---
 
 > [!INFO] Gist

@@ -5,6 +5,7 @@ tags:
   - life
   - travel
 date: 2024-06-02
+pubsish: true
 ---
 
 > [!INFO] Gist

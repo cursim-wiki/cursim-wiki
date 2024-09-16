@@ -3,6 +3,7 @@ title: Creating a Raspberry Pi NAS
 draft: true
 tags:
   - project
+publish: false
 ---
 
 
