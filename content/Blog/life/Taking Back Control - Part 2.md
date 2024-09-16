@@ -36,8 +36,12 @@ I set 4 goals for myself initially:
 Okay, so how did I fare? Let's dive in 🤿
 
 ### Journaling
-This was probably one of the most important bits for me. 
+This was probably one of the most important bits for me. For one, there was the _curation and creation_ aspect, which was something the creator of the [video](https://youtu.be/zIu7PtT79uA) I embedded on the [[Taking Back Control | original post]] spoke about a lot; and, rather impressively, I **did** manage to do it everyday for a month
 
+![[IMG-20240917010057360.png]]
+
+ I wrote about a lot of things, and a lot of times my entries would be just 2-3 lines long, but that was fine by me. At the time, despite my enthusiasm for the project, I wasn't quite as keen on as much of a _detailed_ logging of information as I am right now. Besides, there's seldom time between my day to day to dish out 3 paragraphs of nuanced thought for a daily journal entry.
+ 
 ---
 Tokyo, Japan
 
