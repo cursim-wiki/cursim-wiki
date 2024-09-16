@@ -1,6 +1,5 @@
 ---
 title: A Spontaneous Visit to Sensoji
-draft: false
 tags: 
   - life
   - travel
