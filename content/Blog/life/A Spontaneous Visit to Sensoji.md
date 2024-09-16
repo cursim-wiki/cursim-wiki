@@ -1,10 +1,11 @@
 ---
 title: A Spontaneous Visit to Sensoji
+draft: false
 tags: 
   - life
   - travel
 date: 2024-06-02
-pubsish: true
+publish: true
 ---
 
 > [!INFO] Gist
