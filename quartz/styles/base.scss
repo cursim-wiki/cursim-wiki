@@ -1,6 +1,7 @@
 @use "./variables.scss" as *;
 @use "./syntax.scss";
 @use "./callouts.scss";
+@import url("https://fonts.googleapis.com/css2?family=Allura&display=swap");
 
 html {
   scroll-behavior: smooth;
@@ -17,6 +18,10 @@ section {
   background-color: var(--light);
   font-family: var(--bodyFont);
   color: var(--darkgray);
+}
+
+.content-meta {
+  font-family: "Allura", cursive;
 }
 
 .text-highlight {
