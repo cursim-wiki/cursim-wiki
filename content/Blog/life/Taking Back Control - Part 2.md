@@ -67,6 +67,50 @@ I did however, gain in some pretty significant ways mentally. One being, I actua
 
 I mentioned earlier that my renewed desire (and ability) to read books was almost definitely a direct result of this exercise, and this is exactly what I meant. With all this new free time and desire to see, hear, _read_ new things, I found it in me to pick up books again, to really comprehend the words on the page beyond just their intended meaning, but also what I felt about it all on a deeper level.
 
+Well that was June, so how about July? Promise me you won't laugh 😶
+
+![[IMG-20240917235749313.png]]
+I'm sure this next bit might sound a bit like cope from the outside looking in, but I don't think I was completely failing my goal with disconnecting here either. What I noticed - and this isn't 100% true for every day that I used my phone of course - is that even if I _did_ end up keeping my phone in-hand instead of stashing it away in my bag, I was still far more mindful of what I did with it. 
+
+Based off my recollection alone (Since Apple's built-in screen time app only shows you data upto 4 weeks in the past, wtf lol) I spent most of that time on my phone texting or on call with my girlfriend. But in the spirit of fairness, it's worth noting that the mindless scrolling through Instagram reels and YouTube shorts isn't exactly a memorable time of day, so my recollection alone isn't a reliable narrator.
+
+Nevertheless, I won't go so far as to say I failed, because from just my newfound ability to jerk myself out of a doom-scroll before it takes up 2 hours of my day, I'm already leagues better than say the start of the year.
+
+### Exercise
+Now this is what I'd typically say is the 'big one', is it takes the most physical effort of all my goals, and is just much more difficult by nature. In June, when I started this whole thing, I wasn't unfit by any means. I've been chronically inconsistent with my workouts for the past 4-5 years, but I've been **consistently** inconsistent, if that makes any sense.
+
+Which is to say, I've never been super regular, hit a 90-day workout streak, or been able to stick to a regime for a whole month. My will to exercise is largely dependent on 2 things. On an individual day-by-day basis, it's simply about how much time and energy I have left at the end of the day. But on a more macro level, it's how I feel about myself and my recent trend of success in taking myself to the gym. What that means is that the more days I end up being unable to make time for the gym, the more unmotivated and lethargic I get to do it even when I *do* have the time. This makes for a pretty potent and dangerous mix which keeps me *consistently inconsistent*. But enough about that, how'd I actually do?
+
+![[IMG-20240918001421460.png]]
+Now June is a bit tricky to judge because I specifically remember constantly forgetting to wear my Apple Watch to the gym at night, leading to a bunch of workouts not being tracked. That said though, I don't think I did any more than maybe 15 workouts total, since I was going to the gym an average of about 3 times a week, and doing calisthenics at home maybe 1 day of the week.
+
+July was a lot better, and I found myself tracking much more of my workouts, both at home and at the gym.
+
+![[IMG-20240918001754641.jpg]]
+
+In August though, I saw a lull in my motivation and energy to workout, and while trying to get back into a rythm in September, I definitely felt weakened by my lack of training last month.
+
+![[IMG-20240918001842664.jpeg]]
+
+You might notice that there's exercise tracked even on days that I didn't cross my goal of 60minutes, and most of those can be attributed to my walks to and from the subway station in my daily commutes. I walk a minimum of 2.5km a day just to commute, so at least I can say that I'm not entirely lethargic, even on days that I skipped the gym.
+
+Overall though I still feel as though my attempt to exercise regularly has been more of a **failure** than a success, since I definitely didn't put my all into it, and I can recall dozens of instances where I ended an otherwise-decent workout earlier than planned, simply because I didn't feel like working hard beyond a point of light exhaustion. That said, the bare minimum that I've been doing has kept me fit and healthy and free of major sickness.
+
+### Tracking
+
+Lastly, tracking. From the images I've attached in earlier sections it may seem like this was a huge success actually, because this is far more data about myself and my routines than I've ever had in the past. However, I personally feel as though it left a lot to be desired, as one of the main things I wanted to track - the correlation between my sleep, digital disconnect & exercise and my mood - fell flat on account of my irregular journaling (and thus, tracking of mood and habits), the presence of many external life events that greatly influenced my mood, and also some pretty crazy working hours in July that skewed sleep numbers despite me being overall pretty pleased with my days all things considered.
+
+And so, although I can't say with confidence that there's any value in this last bit of data, here's my sleep and mood (on days tracked) side-by-side for the month of June:
+
+![[IMG-20240918003221250.png]]
+
+All the other data that I tracked to any usable degree has already been presented in earlier sections, so I won't bother going over them again. Overall, I feel like I could have definitely done a better job tracking these metrics in order to have better insights into how my routine has affected my life in numbers, but I think the most important metric in the end is how I feel about this whole exercise; and I'm happy to say that I definitely don't regret any of it, and it's given me even more motivation to keep striving for the best life for myself.
+
+## Where Do I Go From Here?
+That was a lot of yapping about what I've been upto the past 3 months, I know. But the question now is, where do I go from here? 
+
+### More of the same, but different
+At the very least I want to continue trying to journal everyday, or as close to everyday as I can. I think expressing my thoughts and feelings in this way has often helped me cope with it all; writing it all down instead of just letting it morph from one type of thought to an other has helped me curb my frustration about many things, and also make myself feel heard and understood even on days I couldn't confide in other people.
 
 ---
 Tokyo, Japan
