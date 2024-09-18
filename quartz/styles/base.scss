@@ -165,7 +165,7 @@ a {
       box-sizing: border-box;
       padding: 0 4rem;
       position: fixed;
-      height: 600px;
+      min-height: 50% !important;
       @media all and (max-width: $fullPageWidth) {
         position: initial;
         flex-direction: row;
