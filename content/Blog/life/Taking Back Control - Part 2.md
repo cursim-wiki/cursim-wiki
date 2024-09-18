@@ -13,7 +13,7 @@ publish: true
 > Three months ago I watched a video about reclaiming our lives in this over-stimulating attention economy. There were a bunch of steps I set out to take, to do just that.
 > Now, a quarter of the year later, I thought I should write a follow-up post, and go over what worked, what didn't, and how I can keep making steps towards a permanent change.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bQtKSGlviWI?si=kYZ4vEBl1y202IQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bQtKSGlviWI?si=kYZ4vEBl1y202IQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16 / 9; width: 100%; height: 100%;"></iframe>
 
 ////////////////////////////////////////////////////////////////////
 
