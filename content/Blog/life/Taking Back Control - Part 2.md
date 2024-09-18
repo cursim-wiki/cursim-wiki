@@ -61,6 +61,7 @@ My next effort was to actively practice _disconnecting_; and I don't mean simply
 And believe me when I say, it was probably the most positive change overall for me in my life. _Mom was right all along, it was the damn phones._ Of course, **this** was one of the main points that the video I referenced last time was making - we need to teach ourselves how to detach from the constant onslaught of information and distractions, and cultivate a _healthy diet_ of content that we can mindfully consume, without paying with our sanity and critical thinking ability.
 
 ![[IMG-20240917030505870.png]]
+
 In June, I clearly didn't do it everyday; in fact it comes up to just 13/30 days. Looking at this, I initially thought I had failed horribly, but looking inwards at my consumption habits, I think it's rather been a huge success. For starters, I want to clear right away that it didn't entirely reduce my screen time. While I _was_ avoiding those 2 hours a day of phone usage on weekdays, I'd usually make that time up by using it longer at night to catch up with all the texts and other events that I'd missed.
 
 I did however, gain in some pretty significant ways mentally. One being, I actually started to have thoughts again! It might sound a bit silly, like "Akash, we think all the time", but do you though? At least in my case, I feel like I barely had anything beyond transient, fleeting thoughts, or rather, _reactions_ to whatever nonsense it is that I was consuming. Whereas after this change, by virtue of not having my phone with me, I started noticing the people around me, the effect the weather had in how much I enjoyed the Japanese architecture outside the train windows, how the kids here spoke so differently than back home; and I started to really think about it all, about human nature, about some new technology I'd heard recently, all that stuff.
@@ -70,6 +71,7 @@ I mentioned earlier that my renewed desire (and ability) to read books was almos
 Well that was June, so how about July? Promise me you won't laugh 😶
 
 ![[IMG-20240917235749313.png]]
+
 I'm sure this next bit might sound a bit like cope from the outside looking in, but I don't think I was completely failing my goal with disconnecting here either. What I noticed - and this isn't 100% true for every day that I used my phone of course - is that even if I _did_ end up keeping my phone in-hand instead of stashing it away in my bag, I was still far more mindful of what I did with it. 
 
 Based off my recollection alone (Since Apple's built-in screen time app only shows you data upto 4 weeks in the past, wtf lol) I spent most of that time on my phone texting or on call with my girlfriend. But in the spirit of fairness, it's worth noting that the mindless scrolling through Instagram reels and YouTube shorts isn't exactly a memorable time of day, so my recollection alone isn't a reliable narrator.
@@ -82,6 +84,7 @@ Now this is what I'd typically say is the 'big one', is it takes the most physic
 Which is to say, I've never been super regular, hit a 90-day workout streak, or been able to stick to a regime for a whole month. My will to exercise is largely dependent on 2 things. On an individual day-by-day basis, it's simply about how much time and energy I have left at the end of the day. But on a more macro level, it's how I feel about myself and my recent trend of success in taking myself to the gym. What that means is that the more days I end up being unable to make time for the gym, the more unmotivated and lethargic I get to do it even when I *do* have the time. This makes for a pretty potent and dangerous mix which keeps me *consistently inconsistent*. But enough about that, how'd I actually do?
 
 ![[IMG-20240918001421460.png]]
+
 Now June is a bit tricky to judge because I specifically remember constantly forgetting to wear my Apple Watch to the gym at night, leading to a bunch of workouts not being tracked. That said though, I don't think I did any more than maybe 15 workouts total, since I was going to the gym an average of about 3 times a week, and doing calisthenics at home maybe 1 day of the week.
 
 July was a lot better, and I found myself tracking much more of my workouts, both at home and at the gym.
