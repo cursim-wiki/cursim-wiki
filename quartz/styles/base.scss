@@ -112,6 +112,9 @@ a {
   @media all and (max-width: $fullPageWidth) {
     display: initial;
   }
+  &.left.sidebar {
+    height: 650px;
+  }
 }
 
 .page {
@@ -165,7 +168,6 @@ a {
       box-sizing: border-box;
       padding: 0 4rem;
       position: fixed;
-      min-height: 50% !important;
       @media all and (max-width: $fullPageWidth) {
         position: initial;
         flex-direction: row;
