@@ -1,12 +1,12 @@
 ---
 title: Taking Back Control - Part 2
-draft: true
+draft: false
 tags: 
   - life
   - productivity
   - mental-health
 date: 2024-09-16
-publish: false
+publish: true
 ---
 
 > [!INFO] Gist
@@ -110,7 +110,30 @@ All the other data that I tracked to any usable degree has already been presente
 That was a lot of yapping about what I've been upto the past 3 months, I know. But the question now is, where do I go from here? 
 
 ### More of the same, but different
-At the very least I want to continue trying to journal everyday, or as close to everyday as I can. I think expressing my thoughts and feelings in this way has often helped me cope with it all; writing it all down instead of just letting it morph from one type of thought to an other has helped me curb my frustration about many things, and also make myself feel heard and understood even on days I couldn't confide in other people.
+At the very least I want to continue trying to journal everyday, or as close to everyday as I can. I think expressing my thoughts and feelings in this way has often helped me communicate my feelings to myself more honestly and thoroughly, rather than only catching flashes of random, scattered thought when my mind is racing. It forces me to sit with my feelings and really think about them, put them into comprehensible written text, and then process the final result which is often about *what exactly am I feeling right now, and why?*
+
+I want to exercise more, but I'm still kind of conflicted about whether that means in intensity, or frequency. I think the main thing holding me back in this area is my lack of a concrete goal, which leads to me essentially flailing about it the gym until the disinterested voice in my brain tells me I've done enough and can head home. I'll work on trying to set some real fitness goals and write back about it later.
+
+I realize now that I didn't touch on it at all today, but my I initially set my exercise goal in tandem with 'hygiene' - which is to say that I wanted to practice regular *feel-good* routines such as skincare, haircare, keeping myself and my room smelling nice and pleasant, etc. I've managed to be somewhat consistent with my morning routine, but going forwards I want to do more to ensure I always go to bed feeling fresh, clean, and 🌸 *flowery* 🌸
+
+### Tracking Plus Pro Max
+Although my metrics tracking has left a lot to be desired, personally, I really enjoy the fact that I have all these insights to look back upon and analyze for myself, and this is despite me not putting my all into it. Moving forward I want to really pay respect and attention to the *details* of it all and, like this particular blog post, I want to put 100% effort into making the documentation of my life as thorough and insightful as I can manage.
+
+Moving forwards I'll try to track a few more habit metrics like supplementation and reading, and try to write these posts in a more professional and complete format.
+
+### Content Creation
+An idea that I've been dancing with forever *(and I mean **forever**)* is that of content creation. I mean seriously, I've been making some sort of hobbyist youtube content, streaming on twitch, editing reels, producing music etc. for well over 7-8 years now, and the reason is simply that I really enjoy it. It unfortunately hasn't stuck because I've never bothered to treat it as a serious part of my life and nurture and grow in it. But I want to change that, and work on cool things. This blog included.
+
+## Conclusion
+These past 3 months have been a valuable chapter in my journey of self-discovery and growth. I've made pretty significant strides in improving my mental health and fortitude by being more mindful of my attention, and I believe it's led to a renewed ability to think deeply and rediscover my love for meaningful habits.
+
+My efforts in journaling, exercise, time management, and tracking has had its ups and downs, but change isn't always linear, and that's okay. What's important is that I never give up on myself and always stay willing to try again.
+
+Perhaps most importantly, I'm ready to share this journey with the world. By making this blog public, I'm taking a step towards my long-held aspiration of creating real, high-quality and high-effort content. It's a bit scary, but it's also exciting to think about the connections and conversations this might spark, even with myself.
+
+This experience has shown me that taking back control of our lives in the digital age is an ongoing process. It requires patience, self-compassion, and a willingness to keep trying even when we falter. As I continue on this path, I'm grateful for the progress I've made and excited about the growth still to come.
+
+Here's to the next chapter of this journey – may it be filled with more insights, more growth, and more steps towards the life we truly want to live.
 
 ---
 Tokyo, Japan
