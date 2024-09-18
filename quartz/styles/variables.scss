@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Allura&display=swap");
+
 $pageWidth: 750px;
 $mobileBreakpoint: 600px;
 $tabletBreakpoint: 1000px;
@@ -7,3 +9,4 @@ $fullPageWidth: $pageWidth + 2 * $sidePanelWidth;
 $boldWeight: 700;
 $semiBoldWeight: 600;
 $normalWeight: 400;
+$readingTimeFont: "Allura", cursive;
