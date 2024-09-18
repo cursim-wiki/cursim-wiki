@@ -1,4 +1,9 @@
-@import url("https://fonts.googleapis.com/css2?family=Allura&display=swap");
+@font-face {
+  font-family: "Allura";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../assets/fonts/Allura-Regular.ttf") format("truetype");
+}
 
 $pageWidth: 750px;
 $mobileBreakpoint: 600px;
