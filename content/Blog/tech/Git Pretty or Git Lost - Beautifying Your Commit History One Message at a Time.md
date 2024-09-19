@@ -25,7 +25,7 @@ Basics first - You likely don't know what a commit message is.
 ```git
 ea89xxx  random fix, things work now 
 ```
-⬆ This, is not a commit message. You know that sick one-liner you wrote 3 months ago when you encountered a similar bug as today, which you manage to find and reference because none of the messages convey anything meaningful? That's a **commit summary**, or **subject line**, which is only one part - the first part, of a commit message; and it's job is to do the *one thing* your old commit messages don't - summarize the change concisely, so you know exactly what it is at just a glance.
+⬆ This, is not a commit message. You know that sick one-liner you wrote 3 months ago when you encountered a similar bug as today, which you can't manage to find and reference because none of the messages convey anything meaningful? That's a **commit summary**, or **subject line**, which is only one part - the first part, of a commit message; and it's job is to do the *one thing* your old commit messages don't - summarize the change concisely, so you know exactly what it is at just a glance.
 
 This is where 95% of people with bad commit messages mess up, because this is *all* that 95% of people include in their commits. No description, mention of related issues, TODO notes for future maintainers - just the summary. That's exactly why you should strive to get them right, because odds are, that's all you're going to write. The good news is, there's an easy formula to a good commit summay:
 
