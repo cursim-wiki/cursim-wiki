@@ -70,7 +70,7 @@ Now, lightweight text editors like `nano` and `vim` can be scary at first, **esp
 git config --global core.editor "code --wait"
 ```
 
-This is of course, assuming that you've already added the `code` command to your PATH. Once you've set this up, running `git commit` will open a VSCode window for you to enter your commit message:
+This is of course, assuming that you've already [added the `code` command to your PATH](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line). Once you've set this up, running `git commit` will open a VSCode window for you to enter your commit message:
 
 ![[IMG-20240919224015132.png]]
 
@@ -85,6 +85,7 @@ Finally, once you're done writing the entire script of The Bee Movie in the comm
 - Referencing issues: `Fixes: #1234`, `See also: #8888`
 - Breaking changes: `BREAKING CHANGES: JSON Data Structure has changed.`
 - Sign-offs: `Signed-off-by: That Random Indian Teacher on YouTube <seekho-coding@example.com>`
+
 I personally haven't used footers much at all apart from the odd reference to related issues, but most of my metadata-sharing needs at work happen in **Merge Request Descriptions** (a future topic, perhaps). Nevertheless, simply knowing that such a thing is at your disposal could be very valuable in your next team project, so keep it in mind!
 
 ## The Final Push
