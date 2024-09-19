@@ -47,6 +47,8 @@ Lastly, and this one's not so much a measure to improve as it is a way to feel b
 _That's it for this post. I hope you get some good ideas out of the video and text :)_
 
 ---
+[[Taking Back Control - Part 2 | Part II here!]] 
+
 Tokyo, Japan
 
 
