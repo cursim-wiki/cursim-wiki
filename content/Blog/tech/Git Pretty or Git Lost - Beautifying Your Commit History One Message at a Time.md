@@ -110,7 +110,9 @@ You probably won't need *all* of this for *every* commit that you make. In fact,
 Try it out! Or don't, I'm going to push this article to my blog regardless.
 
 `git add .`
+
 `git commit -m "whatever, im lazy"`
+
 `git push -f`
 
 ....well, shit.
