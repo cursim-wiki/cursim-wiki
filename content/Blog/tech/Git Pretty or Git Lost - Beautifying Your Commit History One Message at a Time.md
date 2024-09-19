@@ -119,15 +119,12 @@ Try it out! Or don't, I'm going to push this article to my blog regardless.
 
 ....well, shit.
 
+---
+Tokyo, Japan
+
+*header image: [xkcd: Git Commit](https://xkcd.com/1296/)*
+
 **Further Reading:**
 - [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 - [Git - Book](https://git-scm.com/book/en/v2)
 - [Git - gittutorial Documentation](https://git-scm.com/docs/gittutorial)
-
----
-Tokyo, Japan
-
-
-
-
-
