@@ -5,6 +5,7 @@ tags:
   - life
   - productivity
   - mental-health
+  - expedition
 date: 2024-06-03
 publish: true
 ---

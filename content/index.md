@@ -3,6 +3,7 @@ title: Welcome
 draft: false
 tags:
   - home
+  - trail
 date: 2024-06-01
 publish: true
 ---

@@ -4,6 +4,7 @@ draft: false
 tags: 
   - life
   - travel
+  - trail
 date: 2024-06-02
 publish: true
 ---

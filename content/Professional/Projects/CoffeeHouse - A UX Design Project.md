@@ -2,6 +2,7 @@
 title: CoffeeHouse - A UX Design Project
 draft: false
 tags:
+  - odyssey
   - project
   - uiux
 publish: true

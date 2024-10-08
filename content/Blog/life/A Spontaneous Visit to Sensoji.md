@@ -4,6 +4,7 @@ draft: false
 tags: 
   - life
   - travel
+  - odyssey
 date: 2024-06-02
 publish: true
 ---
