@@ -11,7 +11,7 @@ I've always wanted to collect physical memories of the people and places dear to
 
 Every so often though I keep a flyer, a postcard, or a ticket stub to remind me of these things. Like this postcard I bought at the Red Brick Warehouse in Yokohama on a date with my girlfriend recently:
 
-![[2288244c7e1daed92beb99385c819f65be820670.pdf]]
+![[IMG-20241010010443248.png]]
 
 We had dinner at a restaurant with a glass wall looking on to the adjacent warehouse basically *exactly* like in the illustration, so I was stoked to have found this on the way out. 
 
