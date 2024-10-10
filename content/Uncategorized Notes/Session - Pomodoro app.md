@@ -11,7 +11,7 @@ publish: true
 
 I found this cool pomodoro timer app for the Mac and iOS recently, called Session. I've only used it some 3 days so far, so I can't say with certainty that it's objectively better than any other pomodoro app out there, but I'm liking it.
 
-![[IMG-20241010212713752.png]]
+![[IMG-20241010213626893.png]]
 
 It has great integrations with the apple calendar, and has a built-in way to block apps, write reflections after focus sessions, etc.
 
