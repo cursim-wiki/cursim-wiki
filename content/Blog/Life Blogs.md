@@ -2,6 +2,7 @@
 title: Life Blogs
 draft: false
 tags: 
+  - blog
 date: 2024-06-02
 publish: true
 ---

@@ -4,7 +4,7 @@ draft: false
 tags: 
   - life
   - travel
-  - odyssey
+  - blog
 date: 2024-06-02
 publish: true
 ---

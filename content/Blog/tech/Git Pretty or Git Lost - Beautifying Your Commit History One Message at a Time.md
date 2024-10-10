@@ -6,6 +6,7 @@ tags:
   - git
   - collaboration
   - best-practices
+  - blog
 date: 2024-09-19
 publish: true
 ---

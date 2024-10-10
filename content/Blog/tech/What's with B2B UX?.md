@@ -2,9 +2,9 @@
 title: What's with B2B UX?
 draft: false
 tags:
-  - trail
   - uiux
   - tech
+  - blog
 date: 2024-06-01
 publish: true
 ---

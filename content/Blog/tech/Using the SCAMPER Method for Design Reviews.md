@@ -4,6 +4,7 @@ draft: false
 tags: 
   - uiux
   - tech
+  - blog
 date: 2024-08-31
 publish: true
 ---
