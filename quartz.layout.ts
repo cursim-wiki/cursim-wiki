@@ -35,7 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.RecentNotes()),
     Component.DesktopOnly(Component.RecentNotes()),
   ],
-  afterBody: [Component.MobileOnly(Component.Explorer())],
+  afterBody: [],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
