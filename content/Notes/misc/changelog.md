@@ -1,6 +1,6 @@
 ---
 title: changelog
-draft: true
+draft: false
 tags:
   - home
   - navigation
