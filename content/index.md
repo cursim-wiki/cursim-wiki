@@ -1,5 +1,5 @@
-		---
-title: Welcome
+---
+title: Akash's Digital Garden
 draft: false
 tags:
   - home
@@ -10,7 +10,7 @@ publish: true
 
 Welcome to my blog.
 
-I'm Akash Bagchi. A 23 year old software developer currently living and working in Tokyo, Japan. You're currently seeing what I would sometimes refer to as a blog, sometimes as a wiki, and mostly as my **digital garden**.
+I'm Akash Bagchi. A 23 year old software developer currently living and working in Tokyo, Japan. You're currently seeing what I would sometimes refer to as a blog, sometimes as a wiki, and mostly as my [**digital garden**.](https://jzhao.xyz/posts/networked-thought)
 
 I've been a huge proponent of organized note-taking for the longest time, although I admit it's more because I'm an aesthete, than because I'm organized.
 
