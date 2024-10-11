@@ -1,4 +1,15 @@
-- 2024-10-12 at 00h51 · [[index]]
+---
+title: Changelog
+draft: false
+tags:
+  - home
+  - changelog
+  - all
+date: 2024-10-11
+publish: true
+---
+
+- 2024-10-12 at 01h02 · [[index]]
 - 2024-10-12 at 00h48 · [[Organizing My Thoughts, follow-up]]
 - 2024-10-12 at 00h48 · [[Session - Pomodoro app]]
 - 2024-10-12 at 00h48 · [[Physical memories]]
