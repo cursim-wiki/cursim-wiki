@@ -18,4 +18,4 @@ I've jumped between dozens of different note-taking and agenda applications - fr
 
 This time though, I feel I've finally found a system that works for me, and that is to abandon attempt at labeling what this is or should be, and focusing solely on **networked thinking**.
 
-I encourage anyone interested to start with [[Changelog | the Changelog]] and start exploring!
+I encourage anyone interested to start with [[changelog | the changelog]] and start exploring!

@@ -1,4 +1,5 @@
-- 2024-10-12 at 01h07 · [[index]]
+- 2024-10-12 at 01h49 · [[index]]
+- 2024-10-12 at 01h48 · [[changelog]]
 - 2024-10-12 at 00h48 · [[Organizing My Thoughts, follow-up]]
 - 2024-10-12 at 00h48 · [[Session - Pomodoro app]]
 - 2024-10-12 at 00h48 · [[Physical memories]]
@@ -12,4 +13,3 @@
 - 2024-10-09 at 00h50 · [[CoffeeHouse - A UX Design Project]]
 - 2024-10-09 at 00h48 · [[Taking Back Control - Part 2]]
 - 2024-10-09 at 00h48 · [[Taking Back Control]]
-- 2024-10-09 at 00h48 · [[Organizing My Thoughts]]
