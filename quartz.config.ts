@@ -12,7 +12,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "G-JNQ90SHZKG",
     },
     locale: "en-US",
     baseUrl: "cursim-wiki.github.io",
