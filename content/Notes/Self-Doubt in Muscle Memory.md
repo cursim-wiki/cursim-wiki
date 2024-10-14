@@ -7,7 +7,7 @@ tags:
 publish: true
 ---
 
-For the last 2-3 months I've been learning how to touch-type with the DVORAK layout, after getting interested in the improved ergonomics of a layout that's predominately home-row-centric. I'm really enjoying it actually, and do feel a major improvement to my comfort level when it comes to typing (especially considering that I work a full-time development job and also yap a ton in entries to this blog/digital garden)
+For the last 2-3 months I've been learning how to touch-type with the [DVORAK](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) layout, after getting interested in the improved ergonomics of a layout that's [predominately home-row-centric](https://www.keybr.com/layouts). I'm really enjoying it actually, and do feel a major improvement to my comfort level when it comes to typing (especially considering that I work a full-time development job and also yap a ton in entries to this blog/digital garden)
 
 ![[IMG-20241014211722862.png]]
 
@@ -17,3 +17,6 @@ I'm not sure if this is purely a by-product of trying to be quick, but I definit
 
 I wonder if there's an actual name to this phenomena, maybe I'll write a follow-up if I find anything about it.
 
+###### \[Bonus\] Some keyboarding websites I recommend:
+- [keybr](https://www.keybr.com/)
+- [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/)

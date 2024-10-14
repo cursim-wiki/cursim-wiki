@@ -25,4 +25,3 @@ publish: true
 | [[Using the SCAMPER method for Design Reviews]]                                                                       | #uiux #tech #blog                               | 10.10.2024    |
 | [[Git Pretty or Git Lost - Beautifying Your Commit History One Message at a Time]] | #tech #git #collaboration #best-practices #blog | 10.10.2024    |
 <!-- SerializedQuery END -->
-
