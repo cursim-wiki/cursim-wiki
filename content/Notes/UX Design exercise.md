@@ -1,5 +1,5 @@
 ---
-title: UX Design exercises
+title: UX Design exercise
 draft: false
 tags:
   - footprint
