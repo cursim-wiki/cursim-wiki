@@ -14,8 +14,8 @@ publish: true
 
 | File                                                                                                      | Tags                                      | Last modified |
 | --------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------- |
-| [[Self-Doubt as Muscle Memory]]                                     | #footprint #keyboarding                   | 15.10.2024    |
 | [[UX Design exercise]]                                                       | #footprint #uiux #design                  | 15.10.2024    |
+| [[Self-Doubt as Muscle Memory]]                                     | #footprint #keyboarding                   | 15.10.2024    |
 | [[index]]                                                                                       | #home #trail                              | 12.10.2024    |
 | [[Organizing My Thoughts, follow-up]]                         | #odyssey #expedition #blog #footprint     | 12.10.2024    |
 | [[Session - Pomodoro app]]                                               | #footprint #productivity #tools #pomodoro | 12.10.2024    |
