@@ -13,6 +13,7 @@ While the structured, polished format is definitely in the realm of the #odyssey
 
 I guess it's hard to reconcile something explicitly formatted as a blog post with something organic (or stemming from organic ideas and thoughts) like an 'odyssey' note. 
 
-![[IMG-20241012004828621.png]]
+![[IMG-20241012004828621.png | relevant xkcd]]
 
-[relevant xkcd](https://xkcd.com/1077/)
+---
+*Image:* [xkcd #1077](https://xkcd.com/1077/)
