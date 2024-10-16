@@ -6,6 +6,7 @@ tags:
   - productivity
   - mental-health
   - expedition
+  - blog
 date: 2024-06-03
 publish: true
 ---

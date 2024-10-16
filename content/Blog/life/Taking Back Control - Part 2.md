@@ -6,6 +6,7 @@ tags:
   - productivity
   - mental-health
   - odyssey
+  - blog
 date: 2024-09-16
 publish: true
 ---
