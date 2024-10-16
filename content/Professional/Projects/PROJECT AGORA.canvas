@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"80c4418387b38a63","type":"group","x":-480,"y":-460,"width":680,"height":640,"color":"4","label":"User Flow Diagram"},
+		{"id":"a4221d65e42a6891","type":"text","text":"### Events Page\n- Events details","x":-300,"y":-180,"width":250,"height":120},
+		{"id":"3970460d48798428","type":"text","text":"#### Landing Page\n- Navigation\n- About\n- Socials\n","x":-460,"y":-440,"width":250,"height":160},
+		{"id":"55f732152c40cbc5","type":"text","text":"### Contact/Registration Form","x":-124,"y":47,"width":304,"height":113},
+		{"id":"b0b1aa4263d34e49","x":-480,"y":-640,"width":250,"height":60,"type":"text","text":"---\ntitle: PROJECT AGORA Canvas\ndraft: true\ntags: \n  - project\n  - canvas\n  - agora\ndate: 2024-10-16\npublish: false\n---\n"}
+	],
+	"edges":[
+		{"id":"8e382c4a45485397","fromNode":"3970460d48798428","fromSide":"bottom","toNode":"a4221d65e42a6891","toSide":"top"},
+		{"id":"8a392e5692ed6df9","fromNode":"a4221d65e42a6891","fromSide":"bottom","toNode":"55f732152c40cbc5","toSide":"top"}
+	]
+}

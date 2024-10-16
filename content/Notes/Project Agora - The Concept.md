@@ -15,7 +15,7 @@ publish: true
 ////////////////////////////////////////////////////////////////////
 
 ### Introduction - "Third Places"
-I read very briefly about the “Third Place” theory in sociology, and it made me come to appreciate the ‘third places’ in my life that are albeit not definite in that it often changes with circumstance such as weather, have nonetheless given me much relief and  respite from the slog of everyday life.
+I read very briefly about the [“Third Place” theory](https://en.wikipedia.org/wiki/Third_place#:~:text=Ancient%20Greeks%20and%20their%20agora,or%20engage%20in%20political%20debate.) in sociology, and it made me come to appreciate the ‘third places’ in my life that are albeit not definite in that it often changes with circumstance such as weather, have nonetheless given me much relief and  respite from the slog of everyday life.
 
 ![[IMG-20241016211154813.jpeg]]
 
